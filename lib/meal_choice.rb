@@ -3,4 +3,4 @@ def meal_choice(veg1, veg2, protein = "meat")
   p "A plate of #{protein} with #{veg1} #{veg2}."
 end
 
-meal_choice(veg1, veg2, protein)
+#meal_choice(veg1, veg2, protein)
